@@ -1,0 +1,190 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+
+div#menu {
+	height: 25px;
+	margin-bottom: 10px;
+	background-color: #eeeeee;
+	padding: 2px;
+	vertical-align: middle;
+	border-top: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+}
+
+input {
+	border: 0px;
+	border-bottom: 1px dotted grey;
+	width: 100px;
+}
+
+input.small {
+	width: 30px;
+}
+
+div#results {
+	font-size: 10px;
+	color: #aaa;
+}
+
+div#csv {
+	font-size: 11px;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+
+
+div#message {
+	font-size: 10px;
+	color: #aaa;
+}
+
+select {
+
+	border: 0px;
+	border-bottom: 1px dotted grey;
+}
+
+div.m_left {
+	width: 351px;
+	float: left;
+	margin-right: 50px;
+	font-size: 13px;
+}
+
+div.m_right {
+	font-size: 13px;
+}
+
+div.m_navigation {
+	margin-top: 50px;
+	font-size: 11px;
+}
+
+div.m_navigation div{
+	float: left;
+	margin-right: 10px;
+	cursor: pointer;
+}
+
+div.menubutton {
+	height: 21px;
+	background-color: #ffffff;
+	padding: 2px;
+	padding-left: 5px;
+	vertical-align: middle;
+	width: 150px;
+	float: left;
+	margin-right: 2px;
+	border-right: 1px solid #aaa;
+	cursor: pointer;
+}
+
+div.active {
+	background-color: #eee;
+}
+
+div.mover {
+	background-color: #888;
+	color: #fff;
+}
+
+div.container {
+	border: 1px solid #aaa;
+	width: 980px;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.title {
+	font-weight: bold;
+	margin-bottom: 15px;
+	float: left;
+}
+
+div.stand {
+	float: right;
+	font-size: 12px;
+	color: #888;
+}
+
+.prozent {
+	font-style: italic;
+	font-size: 12px;
+	color: #888;
+}
+
+div.copyright {
+	font-size: 12px;
+	color: #888;
+	text-align: center;
+	padding-top: 20px;
+}
+
+div#tabs ul {
+	font-size: 12px;
+	line-height: 12px;
+}
+
+div#Listen {
+	font-size: 14px;
+}
+
+table.mlist {
+	width: 100%;
+	font-size: 14px;
+	border-bottom: 1px solid grey;
+	border-top: 1px solid grey;
+	margin-top : 10px;
+	margin-bottom: 10px;
+}
+
+table.plist {
+	width: 100%;
+	font-size: 12px;
+	margin-top : 10px;
+	margin-bottom: 10px;
+	border-collapse: collapse;
+	line-height: 28px;
+}
+
+.dataTables_wrapper {
+}
+
+tr.odd {
+	background-color: #eeeeee;
+}
+
+td.jubtrenner {
+	background-color: #eee;
+	font-weight: bold;
+	text-align: center;
+	line-height: 30px;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
+td.lhead {
+	background-color: #aaa;
+	font-weight: bold;
+}
+
+table.plist td.tobo {
+	border-top: 1px solid #000;
+}
+
+table.plist td.nobo {
+	border-top: none;
+	border-bottom: none;
+}
+
+table.plist td.bobo {
+	border-bottom: 1px solid #000;
+}
+
+table.plist td.lebo {
+	border-left: 1px solid #000;
+}

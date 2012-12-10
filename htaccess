@@ -1,0 +1,2 @@
+AddOutputFilterByType DEFLATE application/json
+php_flag magic_quotes_gpc Off
