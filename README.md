@@ -1,0 +1,4 @@
+djkclient
+=========
+
+WebClient für Vereinsmitgliederverwaltung
